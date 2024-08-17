@@ -1,0 +1,50 @@
+[
+  {
+    "title": "C++",
+    "imageSrc": "skills/c++.webp"
+  },
+  {
+    "title": "Python",
+    "imageSrc": "skills/py.png"
+  },
+  {
+    "title": "SQL",
+    "imageSrc": "skills/sql2.webp"
+  },
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "Javascript",
+    "imageSrc": "skills/js.webp"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Node",
+    "imageSrc": "skills/node.png"
+  },
+  {
+    "title": "Express",
+    "imageSrc": "skills/ex.webp"
+  },
+  {
+    "title": "MongoDB",
+    "imageSrc": "skills/mongodb.png"
+  },
+  {
+    "title": "Wix",
+    "imageSrc": "skills/wix.webp"
+  },
+  {
+    "title": "Figma",
+    "imageSrc": "skills/figma.png"
+  }
+]

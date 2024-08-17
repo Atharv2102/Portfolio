@@ -1,0 +1,43 @@
+[
+  {
+    "title": "Crypto X (upcoming)",
+    "imageSrc": "projects/crypto.png",
+    "description": "This is a web based app to track trending Crypto Currency and its various parameters.",
+    "skills": ["React", "Express", "Node","MongoDB"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Atharv2102/Crypto-X"
+  },
+  {
+    "title": "Jewelleria",
+    "imageSrc": "projects/jeweleria.png",
+    "description": "This is an e-commerce jewellery website intergated with AI chatbot for 24*7 customer assistance ",
+    "skills": ["HTML","WIX"],
+    "demo": "https://atharvjainsandeep.wixsite.com/jewelleria"
+    
+  },
+
+  {
+    "title": "Discord Bot- Gemini Integration",
+    "imageSrc": "projects/discordbot.jpg",
+    "description": "This project comprises of Discord Chatbot which uses Gemini API to fetch dynamic responses based on the prompt from the user.",
+    "skills": ["Node", "Javascript", "GeminiAPI"],
+    
+    "source": "https://github.com/Atharv2102/Gemini_Discord_Bot"
+  },
+  {
+    "title": "Banking Management System",
+    "imageSrc": "projects/project.png",
+    "description": "This project implements functionalites of Banking System usnig various concepts of OOPS using C++.",
+    "skills": ["C++", "OOPS"],
+    
+    "source": "https://github.com/Atharv2102/Banking-Management-System"
+  },
+  {
+    "title": "DRS for Cricket Umpires",
+    "imageSrc": "projects/review.png",
+    "description": "This is a Decision Review System build for Umpires in unofficial and low budget Cricket matches to promote fair decisions and improve decision makking",
+    "skills": ["Python", "OpenCV", "Tkinter"],
+    
+    "source": "https://github.com/Atharv2102/DRS-for-Cricket-Umpires"
+  }
+]

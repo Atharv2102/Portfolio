@@ -1,0 +1,29 @@
+[
+  {
+    "role": "WD Intern",
+    "organisation": "Labdox Pvt Ltd.",
+    "startDate": "April, 2024",
+    "endDate": "July 2024",
+    "experiences": ["Worked on WIX, Figma", "Developed websites & integrated AI chatbot"],
+    "imageSrc": "history/labdox.png"
+  },
+  {
+    "role": "Web Dev Lead",
+    "organisation": "GDSC",
+    "startDate": "Aug, 2023",
+    "endDate": "Aug, 2024",
+    "experiences": ["Lead team of Web Developers", "Collaboratively learned various Web Technologies"],
+    "imageSrc": "history/google.png"
+  },
+  {
+    "role": "SDE Intern",
+    "organisation": "Robust Results ",
+    "startDate": "Aug, 2022",
+    "endDate": "Oct, 2022",
+    "experiences": [
+      "Established foundation in Python Programming",
+      "Developed various projects"
+    ],
+    "imageSrc": "history/robust.png"
+  }
+]
