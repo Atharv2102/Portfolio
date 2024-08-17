@@ -31,7 +31,7 @@ export const Hero = () => {
         
       </div>
       <img 
-        src="..\public\self.jpg"
+        src="/self.webp"
         alt="Hero image of me"
         className={styles.heroImg}
       />
